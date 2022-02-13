@@ -1,0 +1,35 @@
+{
+    "name": "lumus",
+    "displayName": "lumuss",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "lumus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lumus-color-theme.json"
+            }
+        ]
+    },
+
+    "icon": "icon/prism.png",
+    "author": {
+        "name": "aflyker",
+        "email": "ffflyker@gmail.com"
+    },
+    "repository":{
+        "url":"https://github.com/aflyker/lumus-theme-vs",
+        "type":"git"
+    },
+    
+    "publisher": "phrism"
+}
+
+
